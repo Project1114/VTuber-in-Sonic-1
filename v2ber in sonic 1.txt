@@ -6,6 +6,9 @@ Possible Additions
 - object which forces an expression then deletes itself
 - angry at using save states (if possible)
 - lip syncing
+- Sonic 3K piority manager (there was a bit of lag that I noticed)
+- more VTubers??? 
+- possible Sonic 1 gameplay changes as options such as the removal of the speed cap and spike bug and the inclusion of the spindash (I know we want to keep it stock Sonic 1 but sometimes, not everyone fancies how Sonic plays in stock S1) 
 
 Faces
 - anime sleep bubble when paused
